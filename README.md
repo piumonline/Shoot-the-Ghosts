@@ -24,5 +24,8 @@ The game also has a variety of challenging levels, including boss levels, which 
 
 Overall, Shoot the Ghosts is a fun and challenging game that is sure to provide hours of entertainment.
 
-The game is made with the Unity game engine, This project gave me an invaluable experience in C# language, real usage of Object-Oriented Programming concepts, and Unity game engine, as well as other graphic design tools like Adobe Photoshop, Illustrator, and Premier Pro. All the game assets were created by me - Piumal Dhanawardhana.
+
+ps - The game was developed with the Unity game engine in 2020. All the development was done locally and uploaded to GitHub three years later all at once. This project gave me an invaluable experience in C# language, real usage of Object-Oriented Programming concepts, and Unity game engine, as well as other graphic design tools like Adobe Photoshop, Illustrator, and Premier Pro. All the game assets were created by me - Piumal Dhanawardhana.
+
+![This is an image](/Assets/Screenshots/Screenshot_20230304-210605.png)
 
